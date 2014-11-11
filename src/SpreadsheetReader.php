@@ -1,4 +1,5 @@
 <?php
+namespace Nuovo\Spreadsheetreader;
 /**
  * Main class for spreadsheet reading
  *

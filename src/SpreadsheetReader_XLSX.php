@@ -1,4 +1,5 @@
 <?php
+namespace Nuovo\Spreadsheetreader;
 /**
  * Class for parsing XLSX files specifically
  *
